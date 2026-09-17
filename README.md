@@ -1,2 +1,2 @@
 https://dkardenasedu-cpu.github.io/proyecto-2/
-(video-proyecto.mp4)
+(proyecto2.mp4)
